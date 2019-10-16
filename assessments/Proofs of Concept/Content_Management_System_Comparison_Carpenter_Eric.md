@@ -1,7 +1,7 @@
-## Comparison of Hugo, WordPress and SquareSpace
-# Eric Carpenter
+# Comparison of Hugo, WordPress and SquareSpace
+## Eric Carpenter
 
-# Similarities
+## Similarities
 
 Hugo, WordPress and SquareSpace all have pre-made themes available (though they also allow for the creation of custom themes).
 
@@ -13,7 +13,7 @@ All three CMSs have a substantial support network (either from their host compan
 
 Presentation-wise, all three CMSs can create identical websites (though the amount of work required to do so varies).
 
-# Differences
+## Differences
 
 Hugo and WordPress sites can be created entirely from source code, whereas SquareSpace relies solely on a visual editor for non-tech savvy users.
 
