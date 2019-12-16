@@ -6,8 +6,6 @@ Throughout the semester, the following “I can” statements have served as gui
 
 ## I can identify and define key concepts in (web) content management.
 
-> Take a few minutes on what it means to identify and define key concepts in (web) content management and why this course objective is important. Summarize your thoughts below:
-
 Understanding the key concepts of web content management is crucial to understanding content management systems. Assignments like the *Modeling, Aggregation and Presentation Comparison* allowed me to solidify my understanding of these concepts - though I certainly struggled to understand some of them at first. For instance, it took quite a bit of research for me to wrap my head around content aggregation; in simplest terms, I have finally come to understand it as putting together related content to make a site look presentable/navigable (like creating a table of contents or a site map). Aggregation for our *CMS Guidebook* was useful in that we have a table of contents to quickly jump to a particular chapter.
 
 Presentation is a concept I found myself particularly interested in. From making small tweaks to the class WordPress site with the other administrators to adding memes to Dr. Greenhalgh's Hugo page, I found that I rather enjoyed working on the presentation side of things (not to mention that presentation is much easier to define and understand than aggregation).
